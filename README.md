@@ -1,1 +1,1 @@
-Claude vs. Codex
+실제로 n8n 풀 파이프라인 테스트
